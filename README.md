@@ -18,4 +18,4 @@ notifications: [swaync](https://github.com/ErikReider/SwayNotificationCenter) (n
 
 fetch: [pfetch](https://github.com/dylanaraps/pfetch)
 
-
+screenshot tool: [grim](https://gitlab.freedesktop.org/emersion/grim)
