@@ -12,6 +12,10 @@ bar: [waybar](https://github.com/Alexays/Waybar)
 
 term: [foot](https://codeberg.org/dnkl/foot)
 
-fetch: [pfetch](https://github.com/dylanaraps/pfetch)
+app launcher: [rofi](https://github.com/davatorium/rofi)
 
 notifications: [swaync](https://github.com/ErikReider/SwayNotificationCenter) (not previewed)
+
+fetch: [pfetch](https://github.com/dylanaraps/pfetch)
+
+
