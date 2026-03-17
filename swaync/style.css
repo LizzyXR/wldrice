@@ -1,0 +1,59 @@
+* {
+  font-family: "Maple Mono NF CN", monospace;
+  font-size: 14px;
+  color: #ffffff; /* ddca9e */
+}
+
+/* main box */
+.notification {
+  background: rgba(40, 40, 40, 0.55);
+  border: 2px solid #8e8e8e; /* #c9b890 */
+  border-radius: 6px;
+
+  padding: 8px 10px;
+  margin: 4px;
+  min-width: 220px;
+  max-width: 260px;
+}
+
+.notification-content {
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+.notification-title {
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.notification-body {
+  font-size: 14px;
+  color: #a89984;
+}
+
+.notification-app-name {
+  font-size: 11px;
+  color: #928374;
+  margin-bottom: 2px;
+}
+
+.notification-icon {
+  margin-right: 8px;
+}
+
+.close-button {
+  color: #928374;
+}
+
+.close-button:hover {
+  color: #ddca9e;
+}
+
+.notification-default-action {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
