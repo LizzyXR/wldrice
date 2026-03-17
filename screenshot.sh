@@ -5,4 +5,4 @@ FILE="$HOME/Pictures/screenshot-$(date +%F-%T).png"
 
 grim -o "$OUTPUT" "$FILE"
 
-echo "Saved to $FILE"
+#echo "Saved to $FILE" # redundant
